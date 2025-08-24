@@ -208,9 +208,9 @@ _Columns:_
 
 - date, opponent, comp - the calendar date and opponent, and the comp number
 
-- opponent_ship - The opponent’s ship. NB: If the opponent changed a ship between rounds and this was recorded, BOTH ships will be listed in the same line, separated by a comma. Because of how the opponent_ship variable is generated, a ban analysis should use the object named “all_opponent_comps” instead, filtered for round 1. 
+- opponent_ship - The opponent’s ship. NB: If the opponent changed a ship between rounds and this was recorded, BOTH ships will be listed in the same line, separated by a comma. Because of how the opponent_ship variable is generated, this table should not be used for analysis. 
 
-- opp_bans1, opp_bans2, opp_bans3 - The opponent’s bans for the comp.
+- opp_bans1, opp_bans2, opp_bans3 - The opponent’s bans for the comp. Bans will be addressed more as their own thing later.
 
 
 ## 3.5 - Ship success rates
@@ -225,11 +225,11 @@ _Output:_ ship_use_summary, "ATXXI_ship_use_summary.csv"
 
 _Columns:_
 
-- Starts with “total_” - combined use numbers for both you and your opponents, your wins and their wins for that ship combined.
+- Starts with “total_” - combined ship use numbers for both you and your opponents, your wins and their wins for that ship combined.
 
-- Starts with “our_” - use numbers for you, your wins with that ship.
+- Starts with “our_” - ship use numbers for you, your wins with that ship.
 
-- Starts with “opp_” - use numbers for your opponent, their wins against you with that ship.
+- Starts with “opp_” - ship use numbers for your opponent, their wins against you with that ship.
 
 
 ## 3.6 - Ship vs. ship matchups
