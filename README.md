@@ -11,6 +11,8 @@ _Contents:_
 * Section 2 - Link to the guide, how the code is organized, what to do with the files after
 * Section 3 - Longer descriptions of what’s in each .csv produced by the code
 
+**More features will be added later!** I just wanted to get this part out (hopefully) in time for the feeders. :)
+
 
 ## 1.0 - Definition of terms
 
@@ -247,3 +249,4 @@ _Columns:_
 - n_rounds_used - The number of rounds the matchup occurred (with a recorded outcome). The more often the two ships have faced each other, the closer to being reliable the win % will be. I have set a minimum of 5 rounds for the matchup to be shown at all, but this is still pretty low!
 
 - our_win_percent - the percent of rounds you won in that matchup.
+
