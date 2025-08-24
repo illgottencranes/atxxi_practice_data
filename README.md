@@ -31,7 +31,7 @@ Next, copy the table again and paste it into a new spreadsheet that is ONLY for 
 
 If you did this in Google docs, download the file as either a .xlsx or .csv format. You don’t need to be able to open the file on your computer, so .xlsx is slightly easier in some ways. .csv is fine, but you might have to change something in my provided code depending on if your computer uses commas or semicolons for .csv files (I do tell you how to do it).
 
-Download the ship info sheet in the same format, from here:
+Download the ship info sheet in the same format, either from this github directory or from here:
 
 https://docs.google.com/spreadsheets/d/1_jluXwlp77uf3dzezWtlnEwlQ3MGNuoqCE6Zgc8TDXg/edit?usp=sharing 
 
