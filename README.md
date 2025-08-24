@@ -7,9 +7,9 @@ I can’t teach you how to use the software, but I can point you toward a decent
 
 _Contents:_
 
-* [Section 1](#10--definition-of-terms) - General definitions, how to prepare the data, which bits are more important to fill out
-* [Section 2](#20--setting-up-with-r-and-rstudio) - Link to the guide, how the code is organized, what to do with the files after
-* [Section 3](#30--overview-of-the-produced-files) - Longer descriptions of what’s in each .csv produced by the code
+* Section 1 - General definitions, how to prepare the data, which bits are more important to fill out
+* Section 2 - Link to the guide, how the code is organized, what to do with the files after
+* Section 3 - Longer descriptions of what’s in each .csv produced by the code
 
 
 ## 1.0 - Definition of terms
