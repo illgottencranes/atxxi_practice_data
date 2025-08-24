@@ -78,15 +78,17 @@ SKIP READING IF: you always fill out everything anyway.
 
 ## 2.0 - Setting up with R and Rstudio
 
+Everything that I’ll have you install is something that is used in science, and runs entirely on your own computer.
+
 This guide is pretty good and is for teaching people who are coming from a non-statistics background:
 
 https://biostats-r.github.io/biostats/workingInR/
 
 ** Important sections, pick and choose the sub-sections: 2, 3, 4, the start of 5, 8, 11
 
-This will tell you how to download the two programs you need, and how to set them up. Everything that I’ll have you install is something that is used in science, and runs entirely on your own computer.
+Your goal in reading the guide is to be able to set up the two programs you need, know where to put the files and how to import them into Rstudio, and know how to run the code provided and how to view objects in the code if needed. So, don't feel like you need to memorize and understand _everything_ even in those sections I listed.
 
-If you want to learn more about what’s being done in the code and how to make edits of your own, this is in sections 12-15.
+If you DO want to learn more about what’s being done in the code and how to make more advanced edits, this is in sections 12-15. :)
 
 
 ## 2.1 - The code
