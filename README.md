@@ -2,7 +2,7 @@
 
 This ReadMe goes along with Arian’s AT Practice Organizer and is intended for the data handling aspect of my spreadsheet. I hope that I can give enough guidance here that a motivated and computer-savvy person could run my code without having a lot of background knowledge. 
 
-I can’t teach you how to use the software, but I can point you toward a decent guide to start with. The programs I use, R and Rstudio, are free and open-source, so there are also a lot of guides available for basically any issue. 
+I can’t teach you how to use the software, but I can point you toward a decent guide to start with and at least be able to run the code provided. The programs I use, R and Rstudio, are free and open-source, so there are also a lot of guides available for basically any issue. 
 
 
 _Contents:_
